@@ -50,15 +50,6 @@ graph TD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📌 Featured Projects
-
-- **[WebDiary](https://github.com/grosukirill/WebDiary)** ⭐2 — Java app for logging your own answers to questions over time, to track how your views and preferences shift
-- **[fitness_forma](https://github.com/grosukirill/fitness_forma)** — Fitness tracking app built in JavaScript
-- **[libr](https://github.com/grosukirill/libr)** — Contribution to a Java book-management system (forked from isd-soft/libr)
-
-<!-- Swap in more repos as you build them — keep each line to the problem solved, not just the tech. -->
 
 ---
 
