@@ -83,7 +83,7 @@ graph TD
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=grosukirill&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grosukirill&hide_border=true" height="165" alt="Streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=grosukirill&hide_border=true" height="165" alt="Streak stats"/>
 </p>
 
 ---
