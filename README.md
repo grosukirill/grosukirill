@@ -33,7 +33,6 @@ graph TD
 {
   "role": "Java Full Stack Developer",
   "stack": ["Spring Boot", "Microservices", "PostgreSQL", "React"],
-  "currently_learning": ["Saga orchestration", "workflow engines", "API gateway patterns"],
   "location": "Groningen, NL",
   "status": "open_to_interesting_problems"
 }
@@ -67,23 +66,6 @@ graph TD
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/grosukirill/grosukirill/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=grosukirill&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
-</p>
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grosukirill&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=grosukirill&hide_border=true" height="165" alt="Streak stats"/>
 </p>
 
 ---
