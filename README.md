@@ -3,36 +3,26 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chiril-grosu-5b5095191&style=flat&color=4169E1" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=grosukirill&style=flat&color=4169E1" alt="Profile views" />
 </p>
 
 ---
 
 ### 🧩 System Overview
 
-```
-┌──────────────────────────────────────────────────────────┐
-│                     chiril-grosu.dev                      │
-│                    (API Gateway / Human)                   │
-└───────────────┬────────────────────────┬──────────────────┘
-                 │                        │
-      ┌──────────▼─────────┐   ┌──────────▼──────────┐
-      │   backend-service    │   │   frontend-service   │
-      │  Java 17 · Spring     │   │  React · TypeScript  │
-      │  Boot · PostgreSQL     │   │  REST clients        │
-      └──────────┬─────────┘   └──────────┬──────────┘
-                 │                        │
-      ┌──────────▼────────────────────────▼──────────┐
-      │              orchestration-layer               │
-      │   Microservices · Saga pattern · API design    │
-      └──────────────────────┬──────────────────────┘
-                              │
-                   ┌──────────▼──────────┐
-                   │   current-context    │
-                   │  Full Stack Dev @     │
-                   │  MemoryLab Health,    │
-                   │  Groningen 🇳🇱         │
-                   └──────────────────────┘
+```mermaid
+graph TD
+    A["👋 chiril-grosu &lt;br/&gt; API Gateway / Human"]:::gateway --> B["backend-service &lt;br/&gt; Java 17 · Spring Boot · PostgreSQL"]:::backend
+    A --> C["frontend-service &lt;br/&gt; React · TypeScript"]:::frontend
+    B --> D["orchestration-layer &lt;br/&gt; Microservices · Saga · API design"]:::orch
+    C --> D
+    D --> E["current-context &lt;br/&gt; Full Stack Dev @ MemoryLab Health &lt;br/&gt; Groningen 🇳🇱"]:::context
+
+    classDef gateway fill:#4169E1,color:#fff,stroke:#333,stroke-width:1px;
+    classDef backend fill:#ED8B00,color:#fff,stroke:#333,stroke-width:1px;
+    classDef frontend fill:#61DAFB,color:#000,stroke:#333,stroke-width:1px;
+    classDef orch fill:#6DB33F,color:#fff,stroke:#333,stroke-width:1px;
+    classDef context fill:#2c3e50,color:#fff,stroke:#333,stroke-width:1px;
 ```
 
 <details>
@@ -65,20 +55,35 @@
 
 ### 📌 Featured Projects
 
-<!--
-  Swap these in for your real repos — keep the one-liner focused on
-  the problem solved, not just the tech used.
--->
-- **[project-name](https://github.com/chiril-grosu/project-name)** — one-line description of the problem it solves
-- **[project-name-2](https://github.com/chiril-grosu/project-name-2)** — one-line description of the problem it solves
+- **[WebDiary](https://github.com/grosukirill/WebDiary)** ⭐2 — Java app for logging your own answers to questions over time, to track how your views and preferences shift
+- **[fitness_forma](https://github.com/grosukirill/fitness_forma)** — Fitness tracking app built in JavaScript
+- **[libr](https://github.com/grosukirill/libr)** — Contribution to a Java book-management system (forked from isd-soft/libr)
+
+<!-- Swap in more repos as you build them — keep each line to the problem solved, not just the tech. -->
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/grosukirill/grosukirill/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=grosukirill&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
+</p>
 
 ---
 
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiril-grosu&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiril-grosu&hide_border=true" height="165" alt="Streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=grosukirill&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grosukirill&hide_border=true" height="165" alt="Streak stats"/>
 </p>
 
 ---
